@@ -1,4 +1,4 @@
-# Simple JUnit/Mockito test using Rest Assured framework
+# Spring Boot project developed to implement JUnit/Mockito tests using Rest Assured framework
 
 ## Read the instructions how to do project configuration
 
